@@ -1,0 +1,2 @@
+# spider
+wifi kontrollu orumcek
